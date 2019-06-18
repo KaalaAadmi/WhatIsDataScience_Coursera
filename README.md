@@ -1,2 +1,2 @@
 # WhatIsDataScience_Coursera
-Here are the answers of all the quizzes
+Here are the answers to all the quizzes
